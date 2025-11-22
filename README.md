@@ -19,4 +19,14 @@ Clear Call-to-Action (CTA): Guides students toward the 'Calculate Your Admission
 
 Local Trust Signals: Highlights data coverage from key educational hubs in Maharashtra (Mumbai, Pune, Nagpur, etc.) to build immediate relevance.
 
+## Tech Stack
+- HTML (index.html)
+- CSS (edupath.css)
+- Javascript (edupath.js)
+- video (hero-video.mp4)
+- logo (logo_try)
+
+
+
+
 
