@@ -4,7 +4,7 @@ The EduPath is for a data-driven counseling platform that helps aspirants make c
 ##Website LINK - https://edupathlandingpage.netlify.app/
 
 ## Introduction
-🎓 EduPath: Data-Driven College Counselling Landing PageThis repository contains the front-end code (HTML, CSS, JavaScript) for the EduPath landing page. EduPath is a platform designed to help JEE and MHT-CET aspirants make confident, data-driven college choices by eliminating scattered information and high-cost private counseling.
+🎓 EduPath: Data-Driven College Counselling Landing PageThis repository contains the front-end code (HTML, CSS, JavaScript) for the EduPath landing page. EduPath is a platform designed to help JEE and MHT-CET aspirants make confident, data-driven college choices by eliminating scattered information and high-cost private counseling platform.
 
 ## Features
 This landing page is designed to maximize conversion by focusing on the core problem and delivering a highly polished user experience:
